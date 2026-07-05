@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Dataset-Gaming_500H-green?style=for-the-badge" alt="Dataset">
 <img src="https://img.shields.io/badge/GPU-NVIDIA_T4-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+
 
 <br><br>
 
