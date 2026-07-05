@@ -322,14 +322,6 @@ hexar-model/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-The base model **Qwen3-8B** is released under its own license by Alibaba Cloud. Please refer to the [Qwen License](https://huggingface.co/Qwen/Qwen3-8B) for terms of use.
-
----
-
 <div align="center">
 
 **Built with ❤️ for the Gaming Community**
